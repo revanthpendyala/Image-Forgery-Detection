@@ -16,23 +16,18 @@ To execute the code:
 4. The output images will be generated in the output_images directory
 
 
-The following papers have been the references for this program:
-M. Zimba, S. Xingming , “DWT-PCA (EVD) Based Copy-move Image
-Forgery Detection”, in International Journal of Digital Content
-Technology and its Applications , January 2011, PP. 251-258
-
-
 We plan to evaluate our model on 3 public benchmark datasets for forgery detection: CASIA v1.0[4], CASIA v2.0[5] and Columbia Gray DVMM[6]. 
 
 The following papers provide references to the ideas behind the above proposal:
 
+[1] M. Zimba, S. Xingming , “DWT-PCA (EVD) Based Copy-move Image Forgery Detection”, in International Journal of Digital Content Technology and its Applications , January 2011, PP. 251-258
 
-[1]. T. T. Ng and S. F. Chang, "A model for image splicing," Image Processing, 2004. ICIP '04. 2004 International Conference on, 2004, pp. 1169-1172 Vol.2.
+[2]. T. T. Ng and S. F. Chang, "A model for image splicing," Image Processing, 2004. ICIP '04. 2004 International Conference on, 2004, pp. 1169-1172 Vol.2.
 
-[2]. M. Ghorbani, M. Firouzmand and A. Faraahi, "DWT-DCT (QCD) based copy-move image forgery detection," 2011 18th International Conference on Systems, Signals and Image Processing, Sarajevo, 2011, pp. 1-4.
+[3]. M. Ghorbani, M. Firouzmand and A. Faraahi, "DWT-DCT (QCD) based copy-move image forgery detection," 2011 18th International Conference on Systems, Signals and Image Processing, Sarajevo, 2011, pp. 1-4.
 
-[3]. Y. Rao and J. Ni, "A deep learning approach to detection of splicing and copy-move forgeries in images," 2016 IEEE International Workshop on Information Forensics and Security (WIFS), Abu Dhabi, 2016, pp. 1-6.
+[4]. Y. Rao and J. Ni, "A deep learning approach to detection of splicing and copy-move forgeries in images," 2016 IEEE International Workshop on Information Forensics and Security (WIFS), Abu Dhabi, 2016, pp. 1-6.
 
-[4]. T. K. Huynh, K. V. Huynh, Thuong Le-Tien and S. C. Nguyen, "A survey on Image Forgery Detection techniques," The 2015 IEEE RIVF International Conference on Computing & Communication Technologies - Research, Innovation, and Vision for Future (RIVF), Can Tho, 2015, pp. 71-76.
+[5]. T. K. Huynh, K. V. Huynh, Thuong Le-Tien and S. C. Nguyen, "A survey on Image Forgery Detection techniques," The 2015 IEEE RIVF International Conference on Computing & Communication Technologies - Research, Innovation, and Vision for Future (RIVF), Can Tho, 2015, pp. 71-76.
 
-[5]. Wu, Yue; AbdAlmageed, Wael; Natarajan, Prem Deep Matching and Validation Network -- An End-to-End Solution to Constrained Image Splicing Localization and Detection
+[6]. Wu, Yue; AbdAlmageed, Wael; Natarajan, Prem Deep Matching and Validation Network -- An End-to-End Solution to Constrained Image Splicing Localization and Detection
